@@ -1,0 +1,4 @@
+A small script that automatically downloads all files on UoN's BlackBoard
+Requires iMacros Firefox Plugin
+
+Note: Some PDFs don't download with the proper extension so PDF_rename.py will recursively explore each subdirectory and rename the affected PDFs
