@@ -64,10 +64,10 @@ function downloadAll(savedir){
 
 
 
-//var startpath = prompt("Enter tag to explore:", "Course Materials");
-//var saveDir = prompt("Enter path to download to:", "~/Documents/BB");
-var startpath = "Course Materials";
-var saveDir = "~/Documents/BB";
+var startpath = prompt("Enter tag to explore:", "Course Materials");
+var saveDir = prompt("Enter path to download to:", "~/Documents/BB");
+//var startpath = "Course Materials";
+//var saveDir = "~/Documents/BB";
 
 clickText(startpath);
 var path = [];
